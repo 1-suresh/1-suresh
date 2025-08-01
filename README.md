@@ -29,6 +29,13 @@
 
 ###
 <div align="center">
+  
+![Snake animation](https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+###
+<div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS" />
@@ -73,6 +80,8 @@
 </div>
 
 ###
+<div align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em style="font-size:50px"><b>I genuinely enjoy connecting with new people</b></em></div>
+
 
 
 
