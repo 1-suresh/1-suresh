@@ -57,18 +57,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Learner-0077B5?style=for-the-badge&logo=academia&logoColor=white" height="25" alt="Learner badge" />
-  <img src="https://img.shields.io/badge/Coder-2b9348?style=for-the-badge&logo=codeforces&logoColor=white" height="25" alt="Coder badge" />
-  <img src="https://img.shields.io/badge/Problem--Solver-ffb400?style=for-the-badge&logo=hackerrank&logoColor=white" height="25" alt="Problem Solver badge" />
-  <img src="https://img.shields.io/badge/Explorer-6a5acd?style=for-the-badge&logo=compass&logoColor=white" height="25" alt="Explorer badge" />
-  <img src="https://img.shields.io/badge/Innovator-e91e63?style=for-the-badge&logo=lightning&logoColor=white" height="25" alt="Innovator badge" />
-</div>
 
-
-###
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1-suresh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=1-suresh&theme=vue-dark&hide_border=true"  />
 </div>
 
