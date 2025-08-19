@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/sureshdattjoshi" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn Badge" />
 </a>
-<a href="https://github.com/1-suresh" target="_blank">
+<a href="https://github.com/suresh-datt-joshi" target="_blank">
   <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="GitHub Badge" />
 </a>
 <a href="mailto:sureshdj9632@email.com" target="_blank">
@@ -45,9 +45,9 @@
 
 ### 📊 My GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=1-suresh&theme=vue-dark&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=suresh-datt-joshi&theme=vue-dark&hide_border=true" />
 <br><br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=1-suresh&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=suresh-datt-joshi&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 </div>
 
